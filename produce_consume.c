@@ -2,7 +2,7 @@
  *
  * Authors: John Hebb, Ian Gerics, Adam Iannaci
  * Date: November 18th, 2018
- * Github: https://github.com/Shmood00/OS_Project/
+ * Github: https://github.com/Shmood00/Project_OS/
  * Professor: Cristina Ribeiro
  * Course: Operating Systems Design & UNIX Programming
  * School: Sheridan College
