@@ -32,6 +32,16 @@ int insert_item(buffer_item item) {
 		return -1;	
 } 
 
+int remove_item(buffer_item *item) {
+	
+	if(counter > 0) {
+		*item = buffer[(counter-1)];
+		counter--;
+		return 0;
+	} else
+		return -1;	
+}
+
 void *producer(void *param) {
 	buffer_item item;
 
